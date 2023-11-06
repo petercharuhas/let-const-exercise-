@@ -1,0 +1,11 @@
+1. What is the difference between ***var*** and ***let***?
+Both reasign however var is not used in up to date JavaScript.
+
+2. What is the difference between **var** and ***const***?
+Var can be reasigned and const is a constant value meaning it cannot change.
+
+3. What is the difference between **let** and **const**?
+Samme as question 2.
+
+4. What is hoisting?
+Moves both variables and functions to top of my code before it runs.
